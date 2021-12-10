@@ -7,6 +7,8 @@ import streamlit as st
 """
 # Welcome to Streamlit!
 
+This is the example Stream Data Display Project - SW 
+
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 
 If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
